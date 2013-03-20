@@ -9,6 +9,11 @@
 # For updates, see: http://stackoverflow.com/questions/49478/git-ignore-file-for-xcode-projects
 #########################
 
+# this file changed by each developer and will be specific to their environment
+mt.default
+# this directory is essentially a build directory for lua resources
+lua
+
 #####
 # OS X temporary files that should never be committed
 
