@@ -11,6 +11,7 @@
 
 # this file changed by each developer and will be specific to their environment
 mt.default
+moai-target
 # this directory is essentially a build directory for lua resources
 lua
 
